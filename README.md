@@ -2,7 +2,7 @@
 - 👀 I’m interested in Home Automation and Self-Hosting
 - 🌱 I’m currently learning about WireGuard VPN Tunnels
 - 💞️ I’m looking to collaborate on Home Automation Projects
-- 📫 DM me on twitter @gadgetboy
+- 📫 You can contact me [here](https://gadgetboy.org/contact).
 
 <!---
 gadgetb0y/gadgetb0y is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
