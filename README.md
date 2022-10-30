@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @gadgetb0y
 - 👀 I’m interested in Home Automation and Self-Hosting
-- 🌱 I’m currently learning about WireGuard VPN Tunnels
-- 💞️ I’m looking to collaborate on Home Automation Projects
+- 🌱 I’m currently learning about all things IoT
+- 💞️ I’m looking to collaborate on IoT Projects
 - 📫 You can contact me [here](https://gadgetboy.org/contact).
 
 <!---
